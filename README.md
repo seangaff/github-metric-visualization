@@ -1,5 +1,8 @@
-#This project displace useful information about a given Github Repository
+This project displace useful information about a given Github Repository
+
 Simple input and user and correspond repository to get statics and a visualiation of top contributors. 
+
+It is built with React, Node, d3, and the GitHub REST API
 
 ![Repo-Visualization](/Repo-Visualization.png "Repo-Visualization")
 
