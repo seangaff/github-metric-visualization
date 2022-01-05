@@ -1,3 +1,12 @@
+#This project displace useful information about a given Github Repository
+Simple input and user and correspond repository to get statics and a visualiation of top contributors. 
+
+![Repo-Visualization](/Repo-Visualization.png "Repo-Visualization"
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
