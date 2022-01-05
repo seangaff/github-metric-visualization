@@ -1,7 +1,7 @@
 #This project displace useful information about a given Github Repository
 Simple input and user and correspond repository to get statics and a visualiation of top contributors. 
 
-![Repo-Visualization](/Repo-Visualization.png "Repo-Visualization"
+![Repo-Visualization](/Repo-Visualization.png "Repo-Visualization")
 
 
 
